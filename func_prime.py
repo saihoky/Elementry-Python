@@ -13,4 +13,4 @@ def prime(num):
     return prime_set
 
 if __name__ == '__main__':
-    a=prime(int(input('Input the last number of range what you want! ')))
+    a=prime(int(input('Input the last number of a range what you want! ')))
