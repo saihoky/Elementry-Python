@@ -13,4 +13,4 @@ def prime(num):
     return prime_set
 
 if __name__ == '__main__':
-    a=prime(int(input('소수를 구하고 싶은 구간의 마지막 수를 입력하세요!  ')))
+    a=prime(int(input('Input the last number of range what you want! ')))
